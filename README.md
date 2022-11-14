@@ -21,7 +21,7 @@ $ python LUXZY-XD.py
 
 #### Update tools
 ``` bash
-$ cd LUXY-XD
+$ cd LUXZY-XD 
 $ git pull
 $ python LUXZY-XD.py
 ```
